@@ -10,7 +10,7 @@ module.exports = {
   
   networks: {
     develop: {
-      port: 9545
+      port: 8545
     }
   }
 };
